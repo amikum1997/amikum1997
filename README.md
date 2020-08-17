@@ -52,4 +52,7 @@
   <a href="https://www.linkedin.com/in/amikum9707/">
   <img align="left" alt="Pawan's Github" width="200px" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" />
 </a>
+  <a href="mailto:someone@example.com">
+  <img align="left" alt="Pawan's Github" width="200px" src="https://i.gifer.com/18rg.gif" />
+  </a>
   </p>
