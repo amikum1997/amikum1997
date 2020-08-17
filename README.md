@@ -9,6 +9,7 @@
 ## Learning The Web 
 
 ###### Language's I Have Learned :snowflake: :tiger:
+
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
@@ -17,9 +18,10 @@
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> 
-<img align="left" alt="HTML" width="40px" src="https://images2.programmersought.com/399/60/60872f13470462a7054dd88ccd767ed7.gif" /> 
+<img align="left" alt="HTML" width="40px" src="https://images2.programmersought.com/399/60/60872f13470462a7054dd88ccd767ed7.gif" /> <br /><br /><br /><br />
 
 ###### Database I Have Used :snowflake: :tiger:
+
 <img align="left"  alt="HTML" width="80px" src="https://www.appcoda.com/wp-content/uploads/2016/11/firebase_logo_shot-680x510.png" /> 
 <img align="left"   alt="HTML" width="80px" src="https://www.estos.com/fileadmin/images/products/meta_4/estos_MetaDirectory_animatedgif_16.gif" /> 
 <img align="left"  alt="HTML" width="80px" src="https://www.phpmyadmin.net/static/images/logo-og.png" /> 
