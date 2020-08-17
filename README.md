@@ -42,7 +42,7 @@
 ## My Hobby's 
 
 <img align="left" alt="HTML" width="100px" src="https://magiccopy.xyz/assets/images/hadder.gif" /> 
-<img align="left" alt="HTML" width="80px" src="https://media.tenor.com/images/c7463075c551b137548f34f15ec656a3/tenor.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://media.tenor.com/images/c7463075c551b137548f34f15ec656a3/tenor.gif" /> <br /><br /><br /><br />
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amikum1997&layout=compact)](https://github.com/amikum1997/github-readme-stats)
