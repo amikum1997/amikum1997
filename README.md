@@ -34,3 +34,7 @@
 <img align="left" alt="HTML" width="80px" src="https://i.pinimg.com/originals/9d/da/7e/9dda7e21cd11f5003c5b3b9e2a97a5b8.gif" /> 
 <img align="left" alt="HTML" width="80px" src="https://www.postman.com/assets/postman/api-lifecycle.gif" /> 
 
+## My Hobby's 
+<img align="left" alt="HTML" width="80px" src="https://magiccopy.xyz/assets/images/hadder.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://media.tenor.com/images/c7463075c551b137548f34f15ec656a3/tenor.gif" /> 
+
