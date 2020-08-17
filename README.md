@@ -25,10 +25,7 @@
 <img  alt="HTML" width="80px" src="https://www.estos.com/fileadmin/images/products/meta_4/estos_MetaDirectory_animatedgif_16.gif" /> 
 <img  alt="HTML" width="80px" src="https://www.phpmyadmin.net/static/images/logo-og.png" /> 
 <img  alt="HTML" width="80px" src="https://image.slidesharecdn.com/couchdb-osbridge-090619160405-phpapp02/95/couchdb-open-source-bridge-1-728.jpg?cb=1245495749"/> 
-<br />
-<br />
 
-----
 ###### Tools I can Handel :snowflake: :tiger:
 
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" /> 
