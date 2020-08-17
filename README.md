@@ -34,7 +34,8 @@
 <img align="left" alt="HTML" width="80px" src="https://i.pinimg.com/originals/9d/da/7e/9dda7e21cd11f5003c5b3b9e2a97a5b8.gif" /> <br />
 <img align="left" alt="HTML" width="80px" src="https://www.postman.com/assets/postman/api-lifecycle.gif" /> 
 <br /><br />
-## Stack Technology's I have worked with
+## Stack Technology's I have worked with 
+<br /><br />
 <img align="left" alt="HTML" width="150px" src="http://www.adsvento.in/images/react/mernstack.png" /> 
 ## My Hobby's 
 <img align="left" alt="HTML" width="100px" src="https://magiccopy.xyz/assets/images/hadder.gif" /> 
