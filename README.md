@@ -45,5 +45,11 @@
 <img align="left" alt="HTML" width="80px" src="https://media.tenor.com/images/c7463075c551b137548f34f15ec656a3/tenor.gif" /> <br /><br /><br /><br />
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amikum1997&layout=compact)](https://github.com/amikum1997/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amikum1997&layout=compact)](https://github.com/amikum1997/github-readme-stats)<br /><br /><br /><br />
+## Contact Me
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/amikum9707/">
+  <img align="left" alt="Pawan's Github" width="50px" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" />
+</a>
+  </div>
