@@ -35,6 +35,6 @@
 <img align="left" alt="HTML" width="80px" src="https://www.postman.com/assets/postman/api-lifecycle.gif" /> <br /><br /><br /><br />
 
 ## My Hobby's 
-<img align="left" alt="HTML" width="80px" src="https://magiccopy.xyz/assets/images/hadder.gif" /> 
+<img align="left" alt="HTML" width="100px" src="https://magiccopy.xyz/assets/images/hadder.gif" /> 
 <img align="left" alt="HTML" width="80px" src="https://media.tenor.com/images/c7463075c551b137548f34f15ec656a3/tenor.gif" /> 
 
