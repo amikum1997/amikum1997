@@ -16,8 +16,8 @@
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> <br />
-
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> 
+</br >
 ###### Database I Have Used :snowflake: :tiger:
 
 ###### Tools I can Handel :snowflake: :tiger:
