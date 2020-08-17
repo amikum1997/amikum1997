@@ -23,8 +23,6 @@
 <br />
 <br />
 
-----
-
 ###### Database I Have Used :snowflake: :tiger:
 
 <img align="left" alt="HTML" width="80px" src="https://www.appcoda.com/wp-content/uploads/2016/11/firebase_logo_shot-680x510.png" /> 
@@ -36,4 +34,7 @@
 
 ----
 ###### Tools I can Handel :snowflake: :tiger:
+
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://i.pinimg.com/originals/9d/da/7e/9dda7e21cd11f5003c5b3b9e2a97a5b8.gif" /> 
 
