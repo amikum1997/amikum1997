@@ -16,8 +16,8 @@
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />
-<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" /><br />
-<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> <br />
 <img align="left" alt="HTML" width="40px" src="https://images2.programmersought.com/399/60/60872f13470462a7054dd88ccd767ed7.gif" /> <br /><br /><br /><br />
 
 ###### Database I Have Used :snowflake: :tiger:
