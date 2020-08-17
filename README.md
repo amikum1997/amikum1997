@@ -7,6 +7,6 @@
 - ⚡ Fun fact: When i write NodeJs code don't know why postman always pokes me. :stuck_out_tongue_winking_eye: <br />
 
 ## The Web
-<div align=”center”> 
-[<img align="center" alt="codeSTACKr.com" width="300px" height="250px" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" />]
+<div align="center"> 
+[<img alt="codeSTACKr.com" width="300px" height="250px" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" />]
 </div>
