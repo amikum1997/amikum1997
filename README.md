@@ -17,6 +17,7 @@
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
 <img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://images2.programmersought.com/399/60/60872f13470462a7054dd88ccd767ed7.gif" /> 
 
 <br />
 <br />
@@ -25,5 +26,13 @@
 
 ###### Database I Have Used :snowflake: :tiger:
 
+<img align="left" alt="HTML" width="80px" src="https://miro.medium.com/max/3330/1*gJJhD2GynUDikKl5OWbk_w.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://i.gifer.com/35lL.gif" /> 
+<img align="left" alt="HTML" width="80px" src="https://www.phpmyadmin.net/static/images/logo-og.png" /> 
+<img align="left" alt="HTML" width="80px" src="https://image.slidesharecdn.com/couchdb-osbridge-090619160405-phpapp02/95/couchdb-open-source-bridge-1-728.jpg?cb=1245495749"/> 
+<br />
+<br />
+
+----
 ###### Tools I can Handel :snowflake: :tiger:
 
