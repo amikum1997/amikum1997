@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/amikum9707/">
   <img align="left" alt="Pawan's Github" width="200px" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" />
 </a>
-  <a href="mailto:someone@example.com">
-  <img align="left" alt="Pawan's Github" width="200px" src="https://i.pinimg.com/originals/d9/68/b5/d968b5a29e2ab2c8d96719a94785585e.gif" />
+  <a href="mailto: ams281997@gmail.com">
+  <img align="left" alt="Amit Kumar Github" width="150px" src="https://i.pinimg.com/originals/d9/68/b5/d968b5a29e2ab2c8d96719a94785585e.gif" />
   </a>
   </p>
