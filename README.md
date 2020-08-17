@@ -36,7 +36,7 @@
 
 ## Stack Technology's I have worked with 
 <img align="left" alt="HTML" width="150px" src="https://innovisionsoftware.com/images/training-mean.jpg" />
-<img align="left" alt="HTML" width="150px" src="http://www.adsvento.in/images/react/mernstack.png" /> <br /><br /><br /><br />
+<img align="left" alt="HTML" width="200px" height="60" src="http://www.adsvento.in/images/react/mernstack.png" /> <br /><br /><br /><br />
 
 ## My Hobby's 
 
