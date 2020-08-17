@@ -9,8 +9,8 @@
 ## Learning The Web 
 
 ###### Language's I Have Learned :snowflake: :tiger:
-<img align="left" alt="HTML" width="40px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
-<img align="left" alt="HTML" width="40px" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
+<img align="left" alt="HTML" width="80px" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 
 ###### Database I Have Used :snowflake: :tiger:
 
