@@ -8,9 +8,8 @@
 
 ## Learning The Web 
 
- - :snowflake: 
- ## Language's I Have Learned :tiger:
- - :snowflake: 
- ## Database I Have Used :tiger:
- - :snowflake: 
- ## Tools I can Handel :tiger:
+###### Language's I Have Learned :snowflake: :tiger:
+
+###### Database I Have Used :snowflake: :tiger:
+
+###### Tools I can Handel :snowflake: :tiger:
